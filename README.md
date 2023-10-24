@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This repository started on October 24th, 2023 .
+I will update intermittently.
+
+Come on !
